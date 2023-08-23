@@ -2,4 +2,4 @@
 //
 //programa Web - Prof Veríssimo
 
-Notion: https://docs.google.com/spreadsheets/d/1f4XNf8x-99outdRUgcAcLMUEHBUMvdLm/edit?usp=sharing&ouid=104493427477127364374&rtpof=true&sd=true
+Notion: https://www.notion.so/Ferramenta-de-An-lise-de-Dados-de-Neg-cios-8ded896f9acd4bc5a98199fb5288e7c1
