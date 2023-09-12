@@ -1,0 +1,35 @@
+main{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1b1e23;
+    padding-bottom: 25%;
+}
+footer{
+    background-color: #1b1e23;
+    text-align: center;
+    color: white;
+}
+#mvendidos{
+    background-color:antiquewhite;
+    margin-top: 25px;
+    border-radius: 5px;
+    text-align: center;
+    height: fit-content;
+    padding: 10px;
+}
+#previsoes{
+    background-color: antiquewhite;
+    margin-top: 25px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+}
+ol { 
+    list-style-type: none;
+}
+footer{
+    background-color: #1b1e23;
+    text-align: center;
+    color: white;
+}
